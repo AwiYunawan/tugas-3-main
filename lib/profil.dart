@@ -49,7 +49,7 @@ class _ProfilState extends State<Profil> {
           CircleAvatar(
             radius: 60.0,
             backgroundImage: AssetImage(
-                'assets/profile_image.jpg'), // Ganti dengan path ke gambar profil
+                'assets/images/profile_image.png'), // Ganti dengan path ke gambar profil
           ),
           SizedBox(height: 20),
           Card(
